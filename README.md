@@ -1,13 +1,16 @@
+[![Version badge](https://img.shields.io/github/v/tag/TheHelloWorldWriter/DefectPX?color=forestgreen&label=version)](https://github.com/TheHelloWorldWriter/DefectPX/releases)
+[![MIT License badge](https://img.shields.io/github/license/TheHelloWorldWriter/DefectPX?color=9c0000)](LICENSE)
+[![GitHub Code Size badge](https://img.shields.io/github/languages/code-size/TheHelloWorldWriter/DefectPX)](https://github.com/TheHelloWorldWriter/DefectPX)
+[![Contributions Welcome badge](https://img.shields.io/badge/contributions-welcome-cornflowerblue)](#Contributions)
+![Downloads from GitHub Releases](https://img.shields.io/github/downloads/TheHelloWorldWriter/DefectPX/total)
+
 # DefectPX
+
 DefectPX allows you to easily check for dead, stuck, or defective pixels.
 
 Just change a few colors and test. Test monitors before purchasing. Test screens during the warranty period. Test anytime and anywhere.
 
 DefectPX comes with both mouse and keyboard shortcuts, multi-monitor support, and a very intuitive interface. Free and open-source, portable, no installation required!
-
-![GitHub](https://img.shields.io/github/license/appliberated/defectpx)
-![Downloads from GitHub Releases](https://img.shields.io/github/downloads/appliberated/defectpx/total)
-[![Generic badge](https://img.shields.io/badge/Made%20with%20❤%20in-Oradea,%20Romania-007AC7.svg)](https://shields.io/)
 
 ## Screenshot
 
@@ -38,3 +41,8 @@ All contributions are welcome: use-cases, documentation, design, graphics, icons
 ## License
 
 DefectPX is licensed under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ in Oradea, Romania  
+https://www.thehelloworldwriter.com
